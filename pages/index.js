@@ -40,7 +40,7 @@ export default function Home() {
       <main className="bg-white px-10 md:px-20 lg:px-40 dark:bg-gray-900">
         <section className="min-h-screen">
           <nav className="py-10 mb-12 flex justify-between">
-            <h1 className="text-xl cursor-pointer select-none">
+            <h1 className="text-xl cursor-pointer select-none dark:text-gray-200">
               Created By Atikur Rahaman Santo
             </h1>
             <ul className=" flex items-center">
@@ -62,8 +62,8 @@ export default function Home() {
             <h2 className="text-4xl py-2 text-teal-600 font-medium md:text-6xl">
               Atikur Rahaman Santo
             </h2>
-            <h2 className="text-2xl py-2 md:text-3xl"> Developer & Graphic Desinger </h2>
-            <p className="text-md py-5 leading-6 text-gray-800 md-text-xl max-w-lg mx-auto">
+            <h2 className="text-2xl py-2 md:text-3xl dark:text-gray-200 "> Developer & Graphic Desinger </h2>
+            <p className="text-md py-5 leading-6 text-gray-800 dark:text-gray-200 md-text-xl max-w-lg mx-auto">
               Hey,
               <br />I am a highly skilled back-end developer, FiveM developer
               and graphic designer. My expertise in back-end development
@@ -80,7 +80,7 @@ export default function Home() {
               improve my skills and take on new challenges.
             </p>
           </div>
-          <div className="text-5xl flex justify-center gap-16 text-gray-600">
+          <div className="text-5xl flex justify-center gap-16 text-gray-600 dark:text-gray-200">
             <AiFillTwitterCircle />
             <AiFillLinkedin />
             <AiFillFacebook />
@@ -95,17 +95,17 @@ export default function Home() {
         <section>
         <div className="text-center p-10">
             <h3 className="text-3xl py-1 "> Services I Offer</h3>
-            <p className="text-md py-2 leading-6 text-gray-800">
+            <p className="text-md py-2 leading-6 text-gray-800 dark:text-gray-200">
               Since the begining of my journey as a frelancer developer, I'have
               done remote work for
               <span className="text-teal-500"> agencies</span>
             </p>
-            <p className="text-md py-2 leading-6 text-gray-800">
+            <p className="text-md py-2 leading-6 text-gray-800 dark:text-gray-200">
               Since the begining of my journey as a frelancer developer, I'have
               done remote work for
               <span className="text-teal-500"> agencies</span>
             </p>
-            <p className="text-md py-2 leading-6 text-gray-800">
+            <p className="text-md py-2 leading-6 text-gray-800 dark:text-gray-200">
               Since the begining of my journey as a frelancer developer, I'have
               done remote work for
               <span className="text-teal-500"> agencies</span>
@@ -122,9 +122,9 @@ export default function Home() {
                 Creating eye catchy elegant design suited for your needs
               </p>
               <h4 className="py-4 text-teal-600">Design tools I use </h4>
-              <p className="text-gray-800 py-1">Photoshop</p>
-              <p className="text-gray-800 py-1">Ilastrator</p>
-              <p className="text-gray-800 py-1">Figma</p>
+              <p className="text-gray-800 dark:text-gray-200 py-1">Photoshop</p>
+              <p className="text-gray-800 dark:text-gray-200 py-1">Ilastrator</p>
+              <p className="text-gray-800 dark:text-gray-200 py-1">Figma</p>
             </div>
 
             <div className="text-center shadow-lg p-10 rounded-r-xl my-10">
@@ -136,9 +136,9 @@ export default function Home() {
                 Creating eye catchy elegant design suited for your needs
               </p>
               <h4 className="py-4 text-teal-600">Design tools I use </h4>
-              <p className="text-gray-800 py-1">Photoshop</p>
-              <p className="text-gray-800 py-1">Ilastrator</p>
-              <p className="text-gray-800 py-1">Figma</p>
+              <p className="text-gray-800 dark:text-gray-200 py-1">Photoshop</p>
+              <p className="text-gray-800 dark:text-gray-200 py-1">Ilastrator</p>
+              <p className="text-gray-800 dark:text-gray-200 py-1">Figma</p>
             </div>
 
             <div className="text-center shadow-lg p-10 rounded-r-xl my-10">
@@ -150,9 +150,9 @@ export default function Home() {
                 Creating eye catchy elegant design suited for your needs
               </p>
               <h4 className="py-4 text-teal-600">Design tools I use </h4>
-              <p className="text-gray-800 py-1">Photoshop</p>
-              <p className="text-gray-800 py-1">Ilastrator</p>
-              <p className="text-gray-800 py-1">Figma</p>
+              <p className="text-gray-800 dark:text-gray-200 py-1">Photoshop</p>
+              <p className="text-gray-800 dark:text-gray-200 py-1">Ilastrator</p>
+              <p className="text-gray-800 dark:text-gray-200 py-1">Figma</p>
             </div>
             
           </div>
@@ -162,17 +162,17 @@ export default function Home() {
 
           <div>
             <h3 className="text-3xl py-1 ">PortFolio</h3>
-            <p className="text-md py-2 leading-6 text-gray-800">
+            <p className="text-md py-2 leading-6 text-gray-800 dark:text-gray-200">
               Since the begining of my journey as a frelancer developer, I'have
               done remote work for
               <span className="text-teal-500"> agencies</span>
             </p>
-            <p className="text-md py-2 leading-6 text-gray-800">
+            <p className="text-md py-2 leading-6 text-gray-800 dark:text-gray-200">
               Since the begining of my journey as a frelancer developer, I'have
               done remote work for
               <span className="text-teal-500"> agencies</span>
             </p>
-            <p className="text-md py-2 leading-6 text-gray-800">
+            <p className="text-md py-2 leading-6 text-gray-800 dark:text-gray-200">
               Since the begining of my journey as a frelancer developer, I'have
               done remote work for
               <span className="text-teal-500"> agencies</span>
